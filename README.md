@@ -1,7 +1,7 @@
 # Marko Špoljarec
 
 Student računarstva na Veleučilištu u Bjelovaru. Najviše me zanima backend:
-Next.js/TypeScript, PostgreSQL i sve što ide uz poslužitelje — Linux, nginx, Docker.
+Next.js/TypeScript, PostgreSQL i sve što ide uz poslužitelje (Linux, nginx, Docker).
 
 Radim web-aplikacije za klijente: webshop [banknote.hr](https://banknote.hr),
 CRM za praćenje skladišta po gradilištima i stranicu s vlastitim CMS-om za
